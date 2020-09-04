@@ -5,7 +5,6 @@ public class Empregado {
     private double salario;
     private double comissao;
     private double bonus;
-    private float teste;
 
     public double calculaSalario() {
         switch (tipo) {
